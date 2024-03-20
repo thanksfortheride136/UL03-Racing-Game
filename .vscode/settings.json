@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "3.0- Racing Game.sln"
+    "dotnet.defaultSolution": "UL03-Racing-Game.sln"
 }
